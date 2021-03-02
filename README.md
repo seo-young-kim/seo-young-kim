@@ -7,8 +7,11 @@
 - 👯 I want to become a developer who wants to collaborate.
 - ⚡ Fun fact: I live with 5 cats and 1 dog.
 </br>
+
 ![seo-young-kim's github stats](https://github-readme-stats.vercel.app/api?username=seo-young-kim&show_icons=true)
+
 </br>
+
 ### Online Judge
 * BOJ: [dky0620](http://icpc.me/dky0620)
   * solvedac: [dky0620](https://solved.ac/profile/dky0620)
