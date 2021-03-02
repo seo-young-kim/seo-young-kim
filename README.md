@@ -1,8 +1,8 @@
 ## seo-young-kim
 ### Hi there 👋
 - 🔭 I just started GitHub. If you have a good nickname for me, please recommend it.
+- 🌱 I’m currently learning docker, machine learning, python, Network.
 - 😄 I like problem solving.
-- 🌱 I’m currently learning docker, machine learning, python
 - 🤔 Developers who want to write code that is easy to read and easy to find errors.
 - 👯 I want to become a developer who wants to collaborate.
 - ⚡ Fun fact: I live with 5 cats and 1 dog.
