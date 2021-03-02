@@ -5,7 +5,7 @@
 - 👯 I want to become a developer who wants to collaborate.
 - ⚡ Fun fact: I live with 5 cats and 1 dog.
 - 📫 If you want to know more about me
-      notion : https://www.notion.so/eac1566165f148c7aaade4e67669db18
+      notion : https://www.notion.so/eac1566165f148c7aaade4e67669db18</br>
       tistory : https://code-conquer.tistory.com/
 <!--
 **seo-young-kim/seo-young-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
