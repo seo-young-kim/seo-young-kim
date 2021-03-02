@@ -1,6 +1,6 @@
 ## seo-young-kim
 ### Hi there 👋
-- 🔭 I just started GitHub. If you have a good nickname for me, please recommend it.
+- 🔭 I'm a starting developer. If you have a good nickname for me, please recommend it.
 - 🌱 I’m currently learning docker, machine learning, python, Network.
 - 😄 I like problem solving.
 - 🤔 Developers who want to write code that is easy to read and easy to find errors.
