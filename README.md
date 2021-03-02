@@ -23,5 +23,5 @@
 - 📫 If you want to know more about me</br>
       </tab>notion : https://www.notion.so/eac1566165f148c7aaade4e67669db18</br>
       </tab>tistory : https://code-conquer.tistory.com/
-- 💬 Contact : seoykim996@gmailc.om 
+- 💬 Contact : seoykim996@gmail.com 
 
