@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/dky0620)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dky0620)](https://solved.ac/dky0620)
