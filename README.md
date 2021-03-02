@@ -4,9 +4,9 @@
 - 🤔 Developers who want to write code that is easy to read and easy to find errors.
 - 👯 I want to become a developer who wants to collaborate.
 - ⚡ Fun fact: I live with 5 cats and 1 dog.
-- 📫 If you want to know more about me
-      notion : https://www.notion.so/eac1566165f148c7aaade4e67669db18</br>
-      tistory : https://code-conquer.tistory.com/
+- 📫 If you want to know more about me</br>
+      </tab>notion : https://www.notion.so/eac1566165f148c7aaade4e67669db18</br>
+      </tab>tistory : https://code-conquer.tistory.com/
 <!--
 **seo-young-kim/seo-young-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
