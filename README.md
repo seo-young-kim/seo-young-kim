@@ -17,3 +17,4 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dky0620)](https://solved.ac/dky0620)
 
+![seo-young-kim's github stats](https://github-readme-stats.vercel.app/api?username=seo-young-kim&show_icons=true)
